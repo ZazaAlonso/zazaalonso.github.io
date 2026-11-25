@@ -16,4 +16,4 @@ sistemas informáticos.
 
 - UT7 - Aplicaciones Informáticas
     - [x] Licencias
-    - [ ] Ofimática
+    - [x] Ofimática

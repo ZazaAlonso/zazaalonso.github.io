@@ -32,7 +32,7 @@ al software:
     - **Libertad 3**: Distribuir copias de las versiones modificadas a terceros,
       permitiendo que se beneficie de las mejoras.
 
-### Tipos 
+### Tipos
 
 | Categoría         | Ejemplos de licencias         |
 | ----------------- | ----------------------------- |
